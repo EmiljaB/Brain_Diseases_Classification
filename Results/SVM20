@@ -1,0 +1,13 @@
+C:\Users\user\PycharmProjects\ThesisTest1\.venv\Scripts\python.exe C:\Users\user\PycharmProjects\ThesisTest1\SVMTest.py
+100%|██████████| 32/32 [00:00<00:00, 2125.01it/s]
+100%|██████████| 35/35 [00:00<00:00, 2506.71it/s]
+100%|██████████| 30/30 [00:00<00:00, 2303.04it/s]
+100%|██████████| 37/37 [00:00<00:00, 2467.63it/s]
+100%|██████████| 30/30 [00:00<00:00, 2506.91it/s]
+Training Accuracy: 1.0
+Testing Accuracy: 0.8484848484848485
+Precision: 0.8885281385281385
+Recall: 0.8484848484848485
+F1 Score: 0.8341231867547657
+
+Process finished with exit code 0

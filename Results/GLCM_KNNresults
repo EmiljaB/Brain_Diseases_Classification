@@ -1,0 +1,7 @@
+C:\Users\user\PycharmProjects\ThesisTest1\.venv\Scripts\python.exe C:\Users\user\PycharmProjects\ThesisTest1\FE_KNNTest.py
+Accuracy: 0.46
+Precision: 0.47179688285570637
+Recall: 0.46
+F1 Score: 0.430737626675384
+
+Process finished with exit code 0

@@ -1,0 +1,7 @@
+C:\Users\user\PycharmProjects\ThesisTest1\.venv\Scripts\python.exe C:\Users\user\PycharmProjects\ThesisTest1\FE_LBP_KNNtest.py
+Accuracy: 0.6
+Precision: 0.6709803921568629
+Recall: 0.6
+F1 Score: 0.5919961639094766
+
+Process finished with exit code 0
